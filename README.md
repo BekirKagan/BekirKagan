@@ -2,11 +2,12 @@
 
 I’m **Bekir Kağan**, a medical student with a passion for programming. In my spare time, I enjoy building web applications and exploring new technologies.
 
-## 🚀 Current Project
+## 🚀 Current Projects
+- **DenovoWM**: A tiling window manager for Windows built with C++. [Project Link (DenovoWM)](https://github.com/BekirKagan/DenovoWM)
 - **VOID**: A video sharing platform built with **Next.js**, **TypeScript**, **TailwindCSS**, and **Firebase**. [Project Link (VOID)](https://github.com/BekirKagan/VOID)
-
+  
 ## 💻 Skills and Technologies
-- **Languages & Frameworks:** TypeScript, Next.js
+- **Languages & Frameworks:** C++, TypeScript, Next.js
 - **Styling:** TailwindCSS
 - **Backend & Database:** Firebase
 
