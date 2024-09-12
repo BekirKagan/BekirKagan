@@ -3,12 +3,10 @@
 I’m **Bekir Kağan**, a medical student with a passion for programming. In my spare time, I enjoy building web applications and exploring new technologies.
 
 ## 🚀 Current Projects
-- **VOID**: A video sharing platform built with **Next.js**, **TypeScript**, **TailwindCSS**, and **Firebase**. [Project Link (VOID)](https://github.com/BekirKagan/VOID)
+- **DenovoAudire**: A terminal-based local music player written in **Rust**. [Project Link (denovo-audire)](https://github.com/BekirKagan/denovo-audire)
   
 ## 💻 Skills and Technologies
-- **Languages & Frameworks:** C++, TypeScript, Next.js
-- **Styling:** TailwindCSS
-- **Backend & Database:** Firebase
+- **Languages:** C++, Rust, TypeScript
 
 ## 🎮 Interests
 - **Gaming:** I enjoy playing AAA games and online games like Valorant. I follow gaming news and trends to stay updated with the latest in the gaming world.
