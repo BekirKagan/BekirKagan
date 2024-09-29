@@ -4,7 +4,7 @@ I’m **Bekir Kağan**, a medical student with a passion for programming. In my 
 
 ## 🚀 Current Projects
 - **DenovoAudire**: A terminal-based local music player written in **Rust**. [Project Link (denovo-audire)](https://github.com/BekirKagan/denovo-audire)
-- **DenovoOpus**: A to-do application written in **Typescript** using **Next.js**. [Project Link (denovo-opus)](https://github.com/BekirKagan/denovo-opus-desktop)
+- **DenovoOpus**: A to-do application written in **Typescript** using **Vite** and **TailwindCSS**. [Project Link (denovo-opus)](https://github.com/BekirKagan/denovo-opus-desktop)
 
 ## 💻 Skills and Technologies
 - **Languages:** C++, Rust, TypeScript
